@@ -17,16 +17,6 @@ This project is designed to preprocess video datasets for **deepfake detection**
 - **TQDM** (for progress tracking)
 - **shutil & os** (for file management)
 
-## 📂 Project Structure
-```
-📂 deepfake-detection
-│── 📂 dataset                # Original video dataset (Real & Fake)
-│── 📂 preprocessed_data       # Extracted faces after processing
-│── extract_faces.py          # Main script for face extraction
-│── balance_dataset.py        # Balances dataset classes
-│── requirements.txt          # Required dependencies
-│── README.md                 # Project documentation
-```
 
 ## 🔧 Installation & Setup
 1. **Clone the Repository**
