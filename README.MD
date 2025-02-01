@@ -60,5 +60,5 @@ This project is licensed under the MIT License.
 Pull requests and suggestions are welcome! Feel free to fork and enhance the project.
 
 ## 📬 Contact
-For queries or collaboration, reach out via [your email or GitHub profile].
+For queries or collaboration, reach out via logamanyan15@gmail.com
 
