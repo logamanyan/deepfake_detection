@@ -49,7 +49,7 @@ This project is designed to preprocess video datasets for **deepfake detection**
 5. Balances the dataset by removing excess images from the majority class.
 
 ## 🎯 Future Enhancements
-- Train a deepfake detection model using CNN or EfficientNet.
+- Train a deepfake detection model using Restnet50
 - Improve face detection with advanced preprocessing techniques.
 - Develop a web-based interface for deepfake detection.
 
@@ -61,4 +61,9 @@ Pull requests and suggestions are welcome! Feel free to fork and enhance the pro
 
 ## 📬 Contact
 For queries or collaboration, reach out via logamanyan15@gmail.com
+## Model Link
+Create new folder named as model and placec this model inside
+https://drive.google.com/file/d/1MwfsON3HNteK1aPxxbR95EDqskqgqYT9/view?usp=sharing
+
+
 
